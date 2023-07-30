@@ -1,7 +1,9 @@
 ## Oiii! Eu sou a Failiny Brito
 
+:game_die:
+Analista de Dados
+:bar_chart:
 
-- Sou Analista de Dados
 
   
 <div>
