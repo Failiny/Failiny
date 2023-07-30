@@ -33,5 +33,5 @@ Analista de Dados
 
 - Siga - me
 
-  ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Failiny/Failiny/blob/output/github-contribution-grid-snake.svg)
 
