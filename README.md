@@ -1,8 +1,14 @@
 ## Oiii! Eu sou a Failiny Brito
 
 :game_die:
-Analista de Dados
+Engenheira de Dados
 :bar_chart:
+
+- Pós-graduada em Finanças
+
+- Apaixonada por Tecnologia
+
+- Estudante de Análise e Desenvolvimento de Sistema
 
 
   
