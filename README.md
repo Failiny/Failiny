@@ -39,5 +39,5 @@ Engenheira de Dados
 
 - Siga - me
 
-  ![Snake animation](https://github.com/Failiny/Failiny/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Failiny/blob/output/github-contribution-grid-snake.svg)
 
